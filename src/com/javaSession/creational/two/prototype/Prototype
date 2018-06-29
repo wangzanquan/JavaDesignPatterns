@@ -1,0 +1,11 @@
+Cloning of an existing object instead of creating new one and can also 
+be customized as per the requirement.
+
+Advantage of Prototypes are
+	1. it reduces the need of sub-classing.
+	2. it hides complexities of creating objects.
+	3. the clients can get new objects without knowing which type of object it will be.
+	4. it lets you add or remove objects at runtime.
+
+
+Deep and Shallow
