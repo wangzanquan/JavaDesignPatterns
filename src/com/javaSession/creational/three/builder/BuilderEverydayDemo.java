@@ -1,6 +1,5 @@
 package com.javaSession.creational.three.builder;
 
-
 public class BuilderEverydayDemo {
 
 	public static void main(String[] args) {
@@ -13,11 +12,6 @@ public class BuilderEverydayDemo {
 		builder.append(42);
 		
 		System.out.println(builder.toString());
-		
-		
-		
-
-	
 
 	}
 

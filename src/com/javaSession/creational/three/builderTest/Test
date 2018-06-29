@@ -1,0 +1,11 @@
+Create packing interface
+create 2 abstract classes CD and company
+create 2 implementation classes of company: Sony and Samsung
+Create the CDType class
+create the CDBuilder class
+create the BuilderDemo Class
+
+result or output
+
+CD name: Sony CD, Price: 20
+CD name: Samsung CD, Price: 15
